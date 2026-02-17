@@ -1,0 +1,35 @@
+{
+  "name": "23f3000822",
+  "email": "23f3000822@ds.study.iitm.ac.in",
+  "description": "Data Science Portfolio Catalog",
+  "projects": [
+    {
+      "title": "Motor Nameplate OCR",
+      "description": "Computer vision system for extracting parameters from industrial motor nameplates",
+      "technologies": ["Python", "OCR", "Computer Vision", "Deep Learning"],
+      "year": 2025
+    },
+    {
+      "title": "Kaggle Competitions",
+      "description": "Participated in house price prediction, sentiment analysis, and protein structure prediction",
+      "technologies": ["Python", "PyTorch", "Machine Learning"],
+      "year": 2025
+    },
+    {
+      "title": "Industrial Automation Bot",
+      "description": "Telegram bot with API integration for VFD motor parameter monitoring",
+      "technologies": ["Python", "Telegram API", "Node.js"],
+      "year": 2024
+    }
+  ],
+  "skills": {
+    "programming": ["Python", "JavaScript", "Bash"],
+    "frameworks": ["PyTorch", "TensorFlow", "LightGBM"],
+    "tools": ["Git", "Docker", "SLURM", "Jupyter"]
+  },
+  "education": {
+    "institution": "BITS Hyderabad",
+    "program": "Engineering",
+    "focus": "Machine Learning and AI"
+  }
+}
