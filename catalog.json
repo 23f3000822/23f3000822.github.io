@@ -1,7 +1,14 @@
 {
-  "name": "23f3000822",
-  "email": "23f3000822@ds.study.iitm.ac.in",
-  "description": "Data Science Portfolio Catalog",
+  "metadata": {
+    "name": "23f3000822",
+    "email": "23f3000822@ds.study.iitm.ac.in",
+    "description": "Data Science Portfolio Catalog",
+    "institution": "BITS Hyderabad",
+    "program": "Engineering",
+    "focus": "Machine Learning and AI",
+    "created": "2026-02-17",
+    "version": "1.0"
+  },
   "projects": [
     {
       "title": "Motor Nameplate OCR",
@@ -26,10 +33,5 @@
     "programming": ["Python", "JavaScript", "Bash"],
     "frameworks": ["PyTorch", "TensorFlow", "LightGBM"],
     "tools": ["Git", "Docker", "SLURM", "Jupyter"]
-  },
-  "education": {
-    "institution": "BITS Hyderabad",
-    "program": "Engineering",
-    "focus": "Machine Learning and AI"
   }
 }
