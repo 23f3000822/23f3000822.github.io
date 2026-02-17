@@ -2,36 +2,136 @@
   "metadata": {
     "name": "23f3000822",
     "email": "23f3000822@ds.study.iitm.ac.in",
-    "description": "Data Science Portfolio Catalog",
-    "institution": "BITS Hyderabad",
-    "program": "Engineering",
-    "focus": "Machine Learning and AI",
-    "created": "2026-02-17",
     "version": "ca05d263"
   },
-  "projects": [
+  "products": [
     {
-      "title": "Motor Nameplate OCR",
-      "description": "Computer vision system for extracting parameters from industrial motor nameplates",
-      "technologies": ["Python", "OCR", "Computer Vision", "Deep Learning"],
-      "year": 2025
+      "id": "prod-ca05d263-001",
+      "name": "Standard Item 1",
+      "category": "books",
+      "price": 372.98,
+      "stock": 17,
+      "rating": 1.5
     },
     {
-      "title": "Kaggle Competitions",
-      "description": "Participated in house price prediction, sentiment analysis, and protein structure prediction",
-      "technologies": ["Python", "PyTorch", "Machine Learning"],
-      "year": 2025
+      "id": "prod-ca05d263-002",
+      "name": "Premium Item 2",
+      "category": "sports",
+      "price": 295.88,
+      "stock": 155,
+      "rating": 3.3
     },
     {
-      "title": "Industrial Automation Bot",
-      "description": "Telegram bot with API integration for VFD motor parameter monitoring",
-      "technologies": ["Python", "Telegram API", "Node.js"],
-      "year": 2024
+      "id": "prod-ca05d263-003",
+      "name": "Basic Item 3",
+      "category": "electronics",
+      "price": 129.73,
+      "stock": 123,
+      "rating": 2.5
+    },
+    {
+      "id": "prod-ca05d263-004",
+      "name": "Basic Item 4",
+      "category": "clothing",
+      "price": 15.66,
+      "stock": 25,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-ca05d263-005",
+      "name": "Elite Item 5",
+      "category": "books",
+      "price": 261.31,
+      "stock": 197,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-ca05d263-006",
+      "name": "Basic Item 6",
+      "category": "home",
+      "price": 312.71,
+      "stock": 125,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-ca05d263-007",
+      "name": "Basic Item 7",
+      "category": "clothing",
+      "price": 74.42,
+      "stock": 125,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-ca05d263-008",
+      "name": "Pro Item 8",
+      "category": "home",
+      "price": 244.51,
+      "stock": 181,
+      "rating": 2
+    },
+    {
+      "id": "prod-ca05d263-009",
+      "name": "Pro Item 9",
+      "category": "sports",
+      "price": 412.3,
+      "stock": 198,
+      "rating": 4
+    },
+    {
+      "id": "prod-ca05d263-010",
+      "name": "Standard Item 10",
+      "category": "home",
+      "price": 488.74,
+      "stock": 174,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-ca05d263-011",
+      "name": "Elite Item 11",
+      "category": "home",
+      "price": 243.11,
+      "stock": 25,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-ca05d263-012",
+      "name": "Premium Item 12",
+      "category": "sports",
+      "price": 104.48,
+      "stock": 0,
+      "rating": 1
+    },
+    {
+      "id": "prod-ca05d263-013",
+      "name": "Pro Item 13",
+      "category": "clothing",
+      "price": 432.91,
+      "stock": 52,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-ca05d263-014",
+      "name": "Standard Item 14",
+      "category": "home",
+      "price": 128.81,
+      "stock": 109,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-ca05d263-015",
+      "name": "Basic Item 15",
+      "category": "books",
+      "price": 237.73,
+      "stock": 63,
+      "rating": 3
+    },
+    {
+      "id": "prod-ca05d263-016",
+      "name": "Pro Item 16",
+      "category": "home",
+      "price": 166.7,
+      "stock": 156,
+      "rating": 4.4
     }
-  ],
-  "skills": {
-    "programming": ["Python", "JavaScript", "Bash"],
-    "frameworks": ["PyTorch", "TensorFlow", "LightGBM"],
-    "tools": ["Git", "Docker", "SLURM", "Jupyter"]
-  }
+  ]
 }
